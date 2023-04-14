@@ -1,8 +1,13 @@
 # UI Clone Spotify
 Esse projeto foi feito como trabalho do curso técnico em informática realizado. Consiste em uma aplicação mobile que busca replicar a interface das telas da maneira mais próxima possível do app de reprodução de músicas spotify.
+<div style="display: inline_block; align='center'">
+<img  alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+</div>
+
+
 
 ## Tecnologias envolvidadas no projeto
-<div style="display: inline_block; align='center'"><br/>
+<div style="display: inline_block; align='center'">
     <img  alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     <img  alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
