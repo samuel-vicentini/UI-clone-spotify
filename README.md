@@ -1,4 +1,4 @@
-# UI Clone Spotify
+# UI Clone Spotify 📱
 Esse projeto foi feito como trabalho do curso técnico em informática realizado. Consiste em uma aplicação mobile que busca replicar a interface das telas da maneira mais próxima possível do app de reprodução de músicas spotify.
 <div style="display: inline_block; align='center'">
 <img  alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
@@ -6,7 +6,7 @@ Esse projeto foi feito como trabalho do curso técnico em informática realizado
 
 
 
-## Tecnologias envolvidadas no projeto
+## Tecnologias envolvidadas no projeto 💻
 <div style="display: inline_block; align='center'">
     <img  alt="dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     <img  alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -16,7 +16,7 @@ Esse projeto foi feito como trabalho do curso técnico em informática realizado
 No diretório do projeto é possível ver as imagens mostrando o resultado final do projeto.
 <br/>
 
-## Contato
+## Contato 💬
 
 [![Portfólio](https://img.shields.io/website?label=SamuelVicentini.com&style=for-the-badge&url=http://samuelvicentini.com.br/)](http://samuelvicentini.com.br/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-vicentini-327633262/)
